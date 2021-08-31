@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   pf-host-agent:
   - apiVersion: v2
+    appVersion: v0.28.1
+    created: "2021-08-31T14:39:51.610505331Z"
+    description: Hyperscaler software efficiency. For everybody.
+    digest: faa388160d46ae1ec065b1625c1ff4df59da8c43f0fc10501608c49c7ec2c3bf
+    kubeVersion: '>= 1.15.0-0'
+    name: pf-host-agent
+    urls:
+    - https://github.com/optimyze/helm-charts/releases/download/pf-host-agent-v0.28.1/pf-host-agent-v0.28.1.tgz
+    version: v0.28.1
+  - apiVersion: v2
     appVersion: v0.28.0
     created: "2021-08-31T10:07:33.294091373Z"
     description: Hyperscaler software efficiency. For everybody.
@@ -400,4 +410,4 @@ entries:
     urls:
     - https://github.com/optimyze/helm-charts/releases/download/pf-host-agent-v0.6.0/pf-host-agent-v0.6.0.tgz
     version: v0.6.0
-generated: "2021-08-31T10:07:33.294487779Z"
+generated: "2021-08-31T14:39:51.610971838Z"
