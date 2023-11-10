@@ -860,4 +860,16 @@ entries:
     urls:
     - https://github.com/optimyze/helm-charts/releases/download/pf-host-agent-v0.6.0/pf-host-agent-v0.6.0.tgz
     version: v0.6.0
-generated: "2023-11-10T10:39:34.568933114Z"
+  profiling-collector:
+  - apiVersion: v2
+    appVersion: 8.12.0-alpha0
+    created: "2023-11-10T12:00:17.481476211Z"
+    description: 'Universal Profiling. Hyperscaler software efficiency. For everybody. '
+    digest: 71041e2d2939de6751073499cd641c094d52c873475b269c63c3470af16f74d9
+    icon: https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt6ec3007768940247/63337a1f4d11fa0cfdb55244/illustration-deployment-3-arrows.png
+    kubeVersion: '>= 1.22.0-0'
+    name: profiling-collector
+    urls:
+    - https://github.com/optimyze/helm-charts/releases/download/profiling-collector-8.12.0-alpha0/profiling-collector-8.12.0-alpha0.tgz
+    version: 8.12.0-alpha0
+generated: "2023-11-10T12:00:17.481810515Z"
