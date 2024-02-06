@@ -942,6 +942,17 @@ entries:
     version: v0.6.0
   profiling-collector:
   - apiVersion: v2
+    appVersion: 8.12.1
+    created: "2024-02-06T10:15:49.968799841Z"
+    description: 'Universal Profiling. Hyperscaler software efficiency. For everybody. '
+    digest: e4a383cb8a9f5f5adbfd8a8d056c0559b24bb8e857560e7df1d98562f52c1d95
+    icon: https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt6ec3007768940247/63337a1f4d11fa0cfdb55244/illustration-deployment-3-arrows.png
+    kubeVersion: '>= 1.22.0-0'
+    name: profiling-collector
+    urls:
+    - https://github.com/optimyze/helm-charts/releases/download/profiling-collector-8.12.1/profiling-collector-8.12.1.tgz
+    version: 8.12.1
+  - apiVersion: v2
     appVersion: 8.12.0-alpha2
     created: "2023-11-21T10:22:54.738836446Z"
     description: 'Universal Profiling. Hyperscaler software efficiency. For everybody. '
@@ -1008,4 +1019,4 @@ entries:
     urls:
     - https://github.com/optimyze/helm-charts/releases/download/profiling-symbolizer-8.12.0-alpha1/profiling-symbolizer-8.12.0-alpha1.tgz
     version: 8.12.0-alpha1
-generated: "2024-02-06T10:10:31.267696236Z"
+generated: "2024-02-06T10:15:49.969012643Z"
