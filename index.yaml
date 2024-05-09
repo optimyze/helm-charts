@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   pf-host-agent:
   - apiVersion: v2
+    appVersion: 8.13.4
+    created: "2024-05-09T18:11:41.90085788Z"
+    description: Hyperscaler software efficiency. For everybody.
+    digest: 289192e0764363c4a73928aeaeeafae496626d5c2631604ce6f6a63e4c905605
+    kubeVersion: '>= 1.15.0-0'
+    name: pf-host-agent
+    urls:
+    - https://github.com/optimyze/helm-charts/releases/download/pf-host-agent-8.13.4/pf-host-agent-8.13.4.tgz
+    version: 8.13.4
+  - apiVersion: v2
     appVersion: 8.13.3
     created: "2024-05-02T08:25:18.368533729Z"
     description: Hyperscaler software efficiency. For everybody.
@@ -1255,4 +1265,4 @@ entries:
     urls:
     - https://github.com/optimyze/helm-charts/releases/download/profiling-symbolizer-8.12.0-alpha1/profiling-symbolizer-8.12.0-alpha1.tgz
     version: 8.12.0-alpha1
-generated: "2024-05-02T13:41:58.590380418Z"
+generated: "2024-05-09T18:11:41.901482047Z"
