@@ -1209,6 +1209,17 @@ entries:
     - https://github.com/optimyze/helm-charts/releases/download/profiling-symbolizer-8.15.0-alpha1/profiling-symbolizer-8.15.0-alpha1.tgz
     version: 8.15.0-alpha1
   - apiVersion: v2
+    appVersion: 8.14.1
+    created: "2024-06-12T17:35:22.302528255Z"
+    description: 'Universal Profiling. Hyperscaler software efficiency. For everybody. '
+    digest: a9aaf949c35a5af42c27e08e7be875a90b1241a335f689bd3fc9ac225fa52f4d
+    icon: https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt6ec3007768940247/63337a1f4d11fa0cfdb55244/illustration-deployment-3-arrows.png
+    kubeVersion: '>= 1.22.0-0'
+    name: profiling-symbolizer
+    urls:
+    - https://github.com/optimyze/helm-charts/releases/download/profiling-symbolizer-8.14.1/profiling-symbolizer-8.14.1.tgz
+    version: 8.14.1
+  - apiVersion: v2
     appVersion: 8.14.0
     created: "2024-06-07T11:17:52.751008573Z"
     description: 'Universal Profiling. Hyperscaler software efficiency. For everybody. '
@@ -1340,4 +1351,4 @@ entries:
     urls:
     - https://github.com/optimyze/helm-charts/releases/download/profiling-symbolizer-8.12.0-alpha1/profiling-symbolizer-8.12.0-alpha1.tgz
     version: 8.12.0-alpha1
-generated: "2024-06-12T17:32:06.322352083Z"
+generated: "2024-06-12T17:35:22.302961091Z"
