@@ -1052,6 +1052,16 @@ entries:
     version: v0.6.0
   profiling-agent:
   - apiVersion: v2
+    appVersion: 8.15.0
+    created: "2024-08-08T08:52:06.571383654Z"
+    description: Hyperscaler software efficiency. For everybody.
+    digest: aff1c4e6aecf2aaaf393ceea08ec9822283d4e845e1aa8d02a5e98955a582d2c
+    kubeVersion: '>= 1.15.0-0'
+    name: profiling-agent
+    urls:
+    - https://github.com/optimyze/helm-charts/releases/download/profiling-agent-8.15.0/profiling-agent-8.15.0.tgz
+    version: 8.15.0
+  - apiVersion: v2
     appVersion: 8.15.0-alpha1
     created: "2024-05-02T13:36:17.495156743Z"
     description: Hyperscaler software efficiency. For everybody.
@@ -1393,4 +1403,4 @@ entries:
     urls:
     - https://github.com/optimyze/helm-charts/releases/download/profiling-symbolizer-8.12.0-alpha1/profiling-symbolizer-8.12.0-alpha1.tgz
     version: 8.12.0-alpha1
-generated: "2024-07-11T13:31:35.031489484Z"
+generated: "2024-08-08T08:52:06.572183821Z"
